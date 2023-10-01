@@ -1,0 +1,33 @@
+{
+	"name": "node-mac-detect-browsers",
+	"version": "1.0.0",
+	"description": "Detect web browsers on macOS from Node.js or Electron via a native module",
+	"main": "main.js",
+	"types": "types.d.ts",
+	"author": "David Cann <david@davidcann.com> (https://davidcann.com)",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/davidcann/node-mac-detect-browsers.git"
+	},
+	"keywords": [
+		"electron",
+		"electronjs",
+		"node",
+		"nodejs",
+		"browser",
+		"browsers",
+		"detect",
+		"macos",
+		"mac"
+	],
+	"bugs": {
+		"url": "https://github.com/davidcann/node-mac-detect-browsers/issues"
+	},
+	"homepage": "https://github.com/davidcann/node-mac-detect-browsers#readme",
+	"dependencies": {
+		"node-addon-api": "^7.0.0"
+	},
+	"gypfile": true,
+	"type": "commonjs"
+}
